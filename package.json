@@ -1,7 +1,7 @@
 {
   "name": "@doncicuto/es-provinces",
   "version": "1.0.0",
-  "description": "Array containing the name and INE code of Spanish provinces",
+  "description": "Array containing the name and INE code of Spanish provinces and the autonomous community which belongs to",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": {
