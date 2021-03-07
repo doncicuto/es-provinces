@@ -30,7 +30,7 @@ The default export is an array of objects with the following structure:
 Example (Browser):
 
 ```ts
-import { provinces } from "@doncicuto/es-provinces";
+import provinces from "@doncicuto/es-provinces";
 
 const names = provinces.map((p) => p.name);
 console.log(names);
